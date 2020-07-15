@@ -1,2 +1,2 @@
 # Js-assignment
-Let's upgrade assignment day-2
+Let's upgrade assignment
